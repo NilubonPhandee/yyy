@@ -1,0 +1,21 @@
+git clone (UML)
+
+git remote -v
+
+git remote add upstream (URL ของต้นฉบับจริง)
+
+git fetch upstream
+
+git checkout upstream/master
+
+ls
+
+ls -l
+
+git checkout master
+
+git merge upstream/master master
+
+ls -l
+
+git git push origin master
